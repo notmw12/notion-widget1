@@ -308,7 +308,7 @@ let allMusic = [
     name: "We can't stop",
     artist: "Milley Sirus",
     img: "./images/50.jpg",
-    src: "02"
+    src: "50"
   },
   {
     name: "We don't talk anymore",
